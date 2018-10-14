@@ -10,4 +10,4 @@ tags:								#标签
     - 学习
 ---
 ## Hey
-> 这是我的第一篇博客，嘻嘻。参考学习的网址为 https://github.com/qiubaiying/qiubaiying.github.io
+> 这是我的第一篇博客，嘻嘻。参考学习的<a href=https://github.com/qiubaiying/qiubaiying.github.io target="_blank">博客</a>。
